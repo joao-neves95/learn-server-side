@@ -44,8 +44,8 @@ All of the content here is free.
   
   ## e-Learning Resources (General):
   
-    - :globe_with_meridians: [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
-    - :globe_with_meridians: [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
-    - :globe_with_meridians: [edX](https://www.edx.org/)
-    - :globe_with_meridians: [Open Culture](http://www.openculture.com/)
+   - :globe_with_meridians: [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+   - :globe_with_meridians: [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+   - :globe_with_meridians: [edX](https://www.edx.org/)
+   - :globe_with_meridians: [Open Culture](http://www.openculture.com/)
   
