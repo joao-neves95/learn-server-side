@@ -3,10 +3,11 @@ These are the resources I'm using to learn Node.js and server-side development
 
 
 ## Labels:
+  - :green_book: Documentation
   - :page_with_curl: Articles
   - :movie_camera: Vídeo Content
-  - :mortar_board: Course
   - :triangular_ruler: Learn by doing
+  - :mortar_board: Course
   
 ***
 
@@ -25,6 +26,10 @@ These are the resources I'm using to learn Node.js and server-side development
 
 
 ## Node.js:
+
+  - :green_book: [Node.js Documentation](https://nodejs.org/en/docs/)
+  
+  - :page_with_curl: [The Art of Node](https://github.com/maxogden/art-of-node) - An introduction to Node.js
 
   - :triangular_ruler: [learnyounode (NodeSchool)](https://github.com/workshopper/learnyounode) ```npm install learnyounode -g```
   
