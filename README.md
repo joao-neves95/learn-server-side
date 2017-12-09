@@ -1,13 +1,17 @@
 # Learn-Server-Side
-These are the resources I'm using to learn Node.js and server-side development
+These are the resources I'm using to learn Node.js and server-side development.
+
+All of the content here is free.
 
 
 ## Labels:
   - :green_book: Documentation
-  - :page_with_curl: Articles
+  - :page_with_curl: Article
+  - :globe_with_meridians: :blue_book: Online Book
   - :movie_camera: Vídeo Content
   - :triangular_ruler: Learn by doing
   - :mortar_board: Course
+  - :globe_with_meridians: Website
   
 ***
 
@@ -28,8 +32,20 @@ These are the resources I'm using to learn Node.js and server-side development
 ## Node.js:
 
   - :green_book: [Node.js Documentation](https://nodejs.org/en/docs/)
-  
   - :page_with_curl: [The Art of Node](https://github.com/maxogden/art-of-node) - An introduction to Node.js
-
   - :triangular_ruler: [learnyounode (NodeSchool)](https://github.com/workshopper/learnyounode) ```npm install learnyounode -g```
+
+
+## MySQL:
+
+  - :globe_with_meridians: :blue_book: [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
+  
+***
+  
+  ## e-Learning Resources (General):
+  
+    - :globe_with_meridians: [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+    - :globe_with_meridians: [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+    - :globe_with_meridians: [edX](https://www.edx.org/)
+    - :globe_with_meridians: [Open Culture](http://www.openculture.com/)
   
