@@ -45,6 +45,11 @@ All of the content here is free.
 ## MySQL:
 
   - :globe_with_meridians: :blue_book: [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
+  
+  
+## SQL Server:
+
+  - :mortar_board: [Developing SQL Databases (edX/Microsoft)](https://www.edx.org/course/developing-sql-databases-microsoft-dat215-1x-2)
 
 ***
 
