@@ -34,7 +34,7 @@ All of the content here is free.
   - :green_book: [Node.js Documentation](https://nodejs.org/en/docs/)
   - :page_with_curl: [The Art of Node](https://github.com/maxogden/art-of-node) - An introduction to Node.js
   - :triangular_ruler: [learnyounode (NodeSchool)](https://github.com/workshopper/learnyounode) ```npm install learnyounode -g```
-  - :mortar_board: [Introduction to Node.js (edX/Microsoft)](https://www.edx.org/course/introduction-node-js-microsoft-dev283x)
+  - :mortar_board: [Introduction to Node.js, Express.js, MongoDB and Mongoose ODM (edX/Microsoft)](https://www.edx.org/course/introduction-node-js-microsoft-dev283x)
 
 
 ## Express.js: (Node.js Framework)
