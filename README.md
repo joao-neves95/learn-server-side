@@ -53,6 +53,18 @@ All of the content here is free.
 
 ***
 
+# Utilities
+
+  - [Javascript Cheat Sheet (OverAPI/js)](http://overapi.com/javascript/)
+  
+  - [npm Cheat Sheet](https://www.cheatography.com/gregfinzer/cheat-sheets/node-package-manager/)
+  
+  - [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+  
+  - SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+
+***
+
 ## e-Learning Resources (General):
   
    - :globe_with_meridians: [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
