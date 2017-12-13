@@ -55,15 +55,15 @@ All of the content here is free.
 
 # Utilities
 
-  - [Javascript Cheat Sheet (OverAPI/js)](http://overapi.com/javascript/)
+  - :globe_with_meridians: [Javascript Cheat Sheet (OverAPI/js)](http://overapi.com/javascript/)
   
-  - [npm Cheat Sheet](https://www.cheatography.com/gregfinzer/cheat-sheets/node-package-manager/)
+  - :green_book: [npm Cheat Sheet](https://www.cheatography.com/gregfinzer/cheat-sheets/node-package-manager/)
   
-  - [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+  - :green_book: [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
   
-  - [.gitignore File Maker](https://www.gitignore.io/)
+  - :globe_with_meridians: [.gitignore File Maker](https://www.gitignore.io/)
   
-  - SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+  - :globe_with_meridians: SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
 
 ***
 
