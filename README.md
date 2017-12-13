@@ -61,6 +61,8 @@ All of the content here is free.
   
   - [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
   
+  - [.gitignore Files Maker](https://www.gitignore.io/)
+  
   - SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
 
 ***
