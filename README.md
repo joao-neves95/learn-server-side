@@ -40,6 +40,7 @@ All of the content here is free.
 ## Express.js: (Node.js Framework)
 
   - :page_with_curl: [Understanding Express.js](http://evanhahn.com/understanding-express/)
+  - :movie_camera: [Routing with node and express.js](https://www.youtube.com/watch?v=xEDpRbJtlKA)
 
 
 ## MySQL:
