@@ -54,7 +54,7 @@ All of the content here is free.
 
 ***
 
-# Utilities
+## Utilities
 
   - :globe_with_meridians: [Javascript Cheat Sheet (OverAPI/js)](http://overapi.com/javascript/)
   
@@ -65,6 +65,8 @@ All of the content here is free.
   - :globe_with_meridians: [.gitignore File Maker](https://www.gitignore.io/)
   
   - :globe_with_meridians: SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+  
+  - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes?wteswitched=1) & [HTTP Response Status Codes](https://developer.yahoo.com/social/rest_api_guide/http-response-codes.html)
 
 ***
 
@@ -74,4 +76,10 @@ All of the content here is free.
    - :globe_with_meridians: [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
    - :globe_with_meridians: [edX](https://www.edx.org/)
    - :globe_with_meridians: [Open Culture](http://www.openculture.com/)
+ 
+ ***
+ 
+ ## TODO: 
+ 
+   - Reorganization of "Utilities".
   
