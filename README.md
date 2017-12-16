@@ -66,7 +66,7 @@ All of the content here is free.
   
   - :globe_with_meridians: SemVer (Semantic Versioning): [1](https://semver.org/) [2](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
   
-  - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes?wteswitched=1) & [HTTP Response Status Codes](https://developer.yahoo.com/social/rest_api_guide/http-response-codes.html)
+  - :page_with_curl: [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes?wteswitched=1) & :page_with_curl: [HTTP Response Status Codes](https://developer.yahoo.com/social/rest_api_guide/http-response-codes.html)
 
 ***
 
