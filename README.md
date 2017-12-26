@@ -29,6 +29,11 @@ All of the content here is free.
   - :triangular_ruler: [git-it (NodeSchool)](https://github.com/jlord/git-it-electron)
 
 
+## General:
+
+  - :page_with_curl: [jQuery AJAX POST Tutorial](https://www.airpair.com/js/jquery-ajax-post-tutorial)
+
+
 ## Node.js:
 
   - :green_book: [Node.js Documentation](https://nodejs.org/en/docs/)
