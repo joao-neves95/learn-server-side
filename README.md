@@ -45,9 +45,14 @@ All of the content here is free.
 
 ## Express.js: (Node.js Framework)
 
+  - :green_book: [Express.js Official API Reference](https://expressjs.com/en/api.html)
   - :page_with_curl: [Understanding Express.js](http://evanhahn.com/understanding-express/)
   - :movie_camera: [Routing with node and express.js](https://www.youtube.com/watch?v=xEDpRbJtlKA)
 
+## MongoDB & Mongoose:
+
+  - :green_book: [Mongoose Official Documentation](http://mongoosejs.com/docs/)
+  - :page_with_curl: [Easily Develop Node.js and MongoDB Apps with Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
 
 ## MySQL:
 
