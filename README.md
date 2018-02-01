@@ -41,7 +41,6 @@ All of the content here is free.
   - :movie_camera: [Introduction to Node.js with Ryan Dahl (creator of node.js)](https://www.youtube.com/watch?v=jo_B4LTHi3I)
   - :triangular_ruler: [learnyounode (NodeSchool)](https://github.com/workshopper/learnyounode) ```npm install learnyounode -g```
   - :mortar_board: [Introduction to Node.js, Express.js, MongoDB and Mongoose ODM (edX/Microsoft)](https://www.edx.org/course/introduction-node-js-microsoft-dev283x)
-  - :movie_camera: [NodeJS - Using BCrypt for Database Encryption](https://www.youtube.com/watch?v=au2pDQ_tgD8) (Express + Mongoose + BCrypt)
 
 
 ## Express.js: (Node.js Framework)
@@ -49,6 +48,7 @@ All of the content here is free.
   - :green_book: [Express.js Official API Reference](https://expressjs.com/en/api.html)
   - :page_with_curl: [Understanding Express.js](http://evanhahn.com/understanding-express/)
   - :movie_camera: [Routing with node and express.js](https://www.youtube.com/watch?v=xEDpRbJtlKA)
+  - :page_with_curl: [ExpressJS and PassportJS Sessions Deep Dive](https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive)
 
 
 ## MongoDB & Mongoose:
