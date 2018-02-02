@@ -48,9 +48,9 @@ All of the content here is free.
   - :green_book: [Express.js Official API Reference](https://expressjs.com/en/api.html)
   - :page_with_curl: [Understanding Express.js](http://evanhahn.com/understanding-express/)
   - :movie_camera: [Routing with node and express.js](https://www.youtube.com/watch?v=xEDpRbJtlKA)
+  - :page_with_curl: [All You Ever Wanted to Know About Sessions In Node.js](https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions)
   - :page_with_curl: [Adding Authentication to Express with Passport](http://stackabuse.com/adding-authentication-to-express-with-passport/)
   - :page_with_curl: [User Authentication with Passport and Express 4](http://mherman.org/blog/2015/01/31/local-authentication-with-passport-and-express-4/)
-
 
 ## MongoDB & Mongoose:
 
