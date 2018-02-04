@@ -68,7 +68,17 @@ All of the content here is free.
 
   - :mortar_board: [Developing SQL Databases (edX/Microsoft)](https://www.edx.org/course/developing-sql-databases-microsoft-dat215-1x-2)
 
+
 ***
+
+
+## Security:
+
+  - [OWASP's Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
+
+
+***
+
 
 ## Utilities
 
