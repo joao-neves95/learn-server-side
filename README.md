@@ -67,7 +67,6 @@ All of the content here is free.
 ## SQL Server:
 
   - :mortar_board: [Developing SQL Databases (edX/Microsoft)](https://www.edx.org/course/developing-sql-databases-microsoft-dat215-1x-2)
-  - :movie_camera: [How to connect to Microsoft SQL Server database using NodeJs](https://www.youtube.com/watch?v=MLcXfRH1YzE&t=430s)
 
 
 ***
