@@ -84,6 +84,7 @@ All of the content here is free.
 
 ## Security:
 
+  - [OWASP Top 10 Vulnerabilities Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
   - [OWASP's Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
 
 
