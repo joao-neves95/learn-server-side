@@ -53,6 +53,16 @@ All of the content here is free.
   - :page_with_curl: [Starting with Authentication (A tutorial with Node.js and MongoDB)](https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359)
 
 
+## C# / ASP.NET Core:
+
+  - :globe_with_meridians: [C# Optimization (Dot Net Perls)](https://www.dotnetperls.com/optimization)
+  - :green_book: [ASP.NET Core Oficial Tutorial](https://docs.microsoft.com/en-us/aspnet/core)
+  - :mortar_board: [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet)
+  - :page_with_curl: [Executing Raw SQL Queries using Entity Framework Core](https://www.learnentityframeworkcore.com/raw-sql)
+  - :page_with_curl: [.NET Datetime vs SQL Datetime : Comparison, Issues and Workarounds](https://codewala.net/2017/06/21/net-datetime-vs-sql-datetime-comparison-issues-and-workarounds/)
+  - :page_with_curl: [You're using HttpClient wrong and it is destabilizing your software](https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/)
+
+
 ## MongoDB & Mongoose:
 
   - :green_book: [Mongoose Official Documentation](http://mongoosejs.com/docs/)
