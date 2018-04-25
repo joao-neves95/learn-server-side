@@ -32,6 +32,7 @@ All of the content here is free.
 ## General:
 
   - :page_with_curl: [jQuery AJAX POST Tutorial](https://www.airpair.com/js/jquery-ajax-post-tutorial)
+  - :page_with_curl: [The Worst Server Setup Mistake You Can Make (Use UTC)](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html)
 
 
 ## Node.js:
