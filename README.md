@@ -61,6 +61,7 @@ All of the content here is free.
   - :green_book: [Asynchronous programming with async and await (C#) - Microsoft's Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/index)
   - :mortar_board: [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet)
   - :page_with_curl: [Executing Raw SQL Queries using Entity Framework Core](https://www.learnentityframeworkcore.com/raw-sql)
+  - :page_with_curl: [Asp.NET Core 2.0 WebApi JWT Authentication with Identity & MySQL](https://medium.com/@ozgurgul/asp-net-core-2-0-webapi-jwt-authentication-with-identity-mysql-3698eeba6ff8)
   - :page_with_curl: [.NET Datetime vs SQL Datetime : Comparison, Issues and Workarounds](https://codewala.net/2017/06/21/net-datetime-vs-sql-datetime-comparison-issues-and-workarounds/)
   - :page_with_curl: [You're using HttpClient wrong and it is destabilizing your software](https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/)
 
