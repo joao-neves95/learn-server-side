@@ -1,5 +1,5 @@
 # Learn-Server-Side
-These are the resources I'm using to learn Node.js and server-side development.
+These are the resources I'm using to learn Node.js, ASP.NET Core and server-side development in general.
 
 All of the content here is free.
 
@@ -58,6 +58,7 @@ All of the content here is free.
 
   - :globe_with_meridians: [C# Optimization (Dot Net Perls)](https://www.dotnetperls.com/optimization)
   - :green_book: [ASP.NET Core Oficial Tutorial](https://docs.microsoft.com/en-us/aspnet/core)
+  - :page_with_curl: [An In Depth Guide Into a Ridiculously Simple API Using .NET Core](https://medium.com/@pielegacy/an-in-depth-guide-into-a-ridiculously-simple-api-using-net-core-8f5edd427b0)
   - :green_book: [Asynchronous programming with async and await (C#) - Microsoft's Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/index)
   - :mortar_board: [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet)
   - :page_with_curl: [Executing Raw SQL Queries using Entity Framework Core](https://www.learnentityframeworkcore.com/raw-sql)
