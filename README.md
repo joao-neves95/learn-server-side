@@ -66,7 +66,7 @@ All of the content here is free.
   - :page_with_curl: [.NET Datetime vs SQL Datetime : Comparison, Issues and Workarounds](https://codewala.net/2017/06/21/net-datetime-vs-sql-datetime-comparison-issues-and-workarounds/)
   - :page_with_curl: [You're using HttpClient wrong and it is destabilizing your software](https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/)
   - :page_with_curl: [How to get client IP Address in ASP.NET Core 2](https://dejanstojanovic.net/aspnet/2018/july/how-to-get-client-ip-address-in-aspnet-core-2/)
-  - :page_with_curl: [SQL Server Connection Pooling (ADO.NET)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql-server-connection-pooling)
+  - :green_book: [SQL Server Connection Pooling (ADO.NET)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql-server-connection-pooling)
 
 
 ## MongoDB & Mongoose:
