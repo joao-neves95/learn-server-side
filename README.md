@@ -33,6 +33,7 @@ All of the content here is free.
 
   - :page_with_curl: [jQuery AJAX POST Tutorial](https://www.airpair.com/js/jquery-ajax-post-tutorial)
   - :page_with_curl: [The Worst Server Setup Mistake You Can Make (Use UTC)](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html)
+  - :page_with_curl: [4 Common Datetime Mistakes in C# — And How to Avoid Them](https://blog.submain.com/4-common-datetime-mistakes-c-avoid/)
 
 
 ## Node.js:
