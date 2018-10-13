@@ -3,7 +3,6 @@ These are the resources I'm using to learn Node.js, ASP.NET Core and server-side
 
 All of the content here is free.
 
-
 ## Labels:
   - :green_book: Documentation
   - :page_with_curl: Article
@@ -15,6 +14,8 @@ All of the content here is free.
   
 ***
 
+&nbsp;
+
 ## Introductory:
 
   - :page_with_curl: [Introduction to the server side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
@@ -23,11 +24,13 @@ All of the content here is free.
   - :movie_camera: [Basics Of Server Side Programming](https://www.youtube.com/watch?v=nhZMH8oX6xI)
   - :movie_camera: [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 
+&nbsp;
 
 ## Git and GitHub:
 
   - :triangular_ruler: [git-it (NodeSchool)](https://github.com/jlord/git-it-electron)
 
+&nbsp;
 
 ## General:
 
@@ -35,6 +38,7 @@ All of the content here is free.
   - :page_with_curl: [The Worst Server Setup Mistake You Can Make (Use UTC)](http://yellerapp.com/posts/2015-01-12-the-worst-server-setup-you-can-make.html)
   - :page_with_curl: [4 Common Datetime Mistakes in C# — And How to Avoid Them](https://blog.submain.com/4-common-datetime-mistakes-c-avoid/)
 
+&nbsp;
 
 ## Node.js:
 
@@ -44,6 +48,7 @@ All of the content here is free.
   - :triangular_ruler: [learnyounode (NodeSchool)](https://github.com/workshopper/learnyounode) ```npm install learnyounode -g```
   - :mortar_board: [Introduction to Node.js, Express.js, MongoDB and Mongoose ODM (edX/Microsoft)](https://www.edx.org/course/introduction-node-js-microsoft-dev283x)
 
+&nbsp;
 
 ## Express.js: (Node.js Framework)
 
@@ -54,6 +59,7 @@ All of the content here is free.
   - :page_with_curl: [All You Ever Wanted to Know About Sessions In Node.js](https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions)
   - :page_with_curl: [Starting with Authentication (A tutorial with Node.js and MongoDB)](https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359)
 
+&nbsp;
 
 ## C# / ASP.NET Core:
 
@@ -69,22 +75,26 @@ All of the content here is free.
   - :page_with_curl: [How to get client IP Address in ASP.NET Core 2](https://dejanstojanovic.net/aspnet/2018/july/how-to-get-client-ip-address-in-aspnet-core-2/)
   - :green_book: [SQL Server Connection Pooling (ADO.NET)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql-server-connection-pooling)
 
+&nbsp;
 
 ## MongoDB & Mongoose:
 
   - :green_book: [Mongoose Official Documentation](http://mongoosejs.com/docs/)
   - :page_with_curl: [Easily Develop Node.js and MongoDB Apps with Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
 
+&nbsp;
 
 ## MySQL:
 
   - :globe_with_meridians: :blue_book: [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
-  
-  
+
+&nbsp;
+
 ## SQL Server:
 
   - :mortar_board: [Developing SQL Databases (edX/Microsoft)](https://www.edx.org/course/developing-sql-databases-microsoft-dat215-1x-2)
 
+&nbsp;
 
 ***
 
@@ -98,6 +108,7 @@ All of the content here is free.
 
 ***
 
+&nbsp;
 
 ## Utilities
 
@@ -113,6 +124,8 @@ All of the content here is free.
   
   - :page_with_curl: [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes?wteswitched=1) & :page_with_curl: [HTTP Response Status Codes](https://developer.yahoo.com/social/rest_api_guide/http-response-codes.html)
 
+&nbsp;
+
 ***
 
 ## e-Learning Resources (General):
@@ -123,6 +136,8 @@ All of the content here is free.
    - :globe_with_meridians: [Open Culture](http://www.openculture.com/)
  
  ***
+ 
+ &nbsp;
  
  ## TODO: 
  
