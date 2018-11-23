@@ -101,6 +101,7 @@ All of the content here is free.
 
 ## Security:
 
+  - [XSS (Cross Site Scripting) Prevention Cheat Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)
   - [OWASP Application Security Verification Standard Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
   - [OWASP Top 10 Vulnerabilities Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
   - [OWASP's Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
